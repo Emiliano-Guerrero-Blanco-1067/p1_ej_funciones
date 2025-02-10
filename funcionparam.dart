@@ -10,7 +10,7 @@ void main () {
   print("Llamando a la función sumar");
   print("La suma es: ${sumar(10, 5)}");
   print("Llamando a la función concatenar");
-  print("La concatenación es: ${concatenar("Hola ", "Mundo")}");
+  print("La concatenación es: ${concatenar("helou ", "profe Nava")}");
 }
 
 
