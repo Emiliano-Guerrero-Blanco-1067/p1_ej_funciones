@@ -15,10 +15,20 @@ void main() {
     12: 'Diciembre',
   };
 
+  print('meses del año: $mesesDelAnio')
+
   // Recorrer el mapa e imprimir los pares clave-valor
   mesesDelAnio.forEach((numeroMes, nombreMes) {
     print(' $nombreMes');
   });
 
   print('Ejemplo del mes 3, ${mesesDelAnio[3]}'); // Salida: Marzo
+
+
+
+
+print('tabla clientes');
+
+print('tabla ventas');
 }
+
